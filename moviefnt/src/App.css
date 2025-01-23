@@ -1,0 +1,33 @@
+div {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+}
+
+input {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+.movie {
+    position: relative;
+    top:0px;
+}
+
+.genre {
+    position:relative;
+    top:0px;
+}
+
+
+#ebutton {
+    background-color: red;
+    color: rgb(43, 8, 8);
+    position:relative;
+    top:0px;
+}

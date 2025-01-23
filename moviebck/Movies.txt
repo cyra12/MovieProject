@@ -1,0 +1,6 @@
+Barbie;, Comedy,
+the big short;, Comedy, Drama,
+the ides of march;, Drama,
+drive;, Action,
+remember the titans;, Drama,
+wall e;, Kids & family, Adventure, Sci-fi, Comedy, Animation,
